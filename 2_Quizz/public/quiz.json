@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question": "Quel est le nom correct de React.js ?",
+        "options": [
+            "React",
+            "React.js",
+            "ReactJS",
+            "Tous les précédents"
+        ],
+        "answer": "Tous les précédents"
+    },
+    {
+        "id": "02",
+        "question": "Quels sont les avantages de React.js ?",
+        "options": [
+            "React.js peut augmenter la performance de l'application avec le DOM virtuel.",
+            "React.js est facile à intégrer avec d'autres frameworks comme Angular, BackboneJS puisqu'il s'agit uniquement d'une bibliothèque de vue.",
+            "React.js peut effectuer le rendu côté client et serveur.",
+            "Tous les précédents"
+        ],
+        "answer": "Tous les précédents"
+    },
+    {
+        "id": "03",
+        "question": "Lequel des suivants n'est pas un inconvénient de React.js ?",
+        "options": [
+            "React.js a seulement une couche de vue. Vous devez gérer le code pour les requêtes Ajax, les événements, etc.",
+            "La bibliothèque de React.js est assez volumineuse.",
+            "Le JSX dans React.js rend le code facile à lire et à écrire.",
+            "La courbe d'apprentissage peut être abrupte avec React.js."
+        ],
+        "answer": "Le JSX dans React.js rend le code facile à lire et à écrire."
+    },
+    {
+        "id": "04",
+        "question": "Quelle commande est utilisée pour installer create-react-app ?",
+        "options": [
+            "npm install -g create-react-app",
+            "npx create-react-app my-app",
+            "npm install create-react-app",
+            "npm install -f create-react-app"
+        ],
+        "answer": "npx create-react-app my-app"
+    },
+    {
+        "id": "05",
+        "question": "Qu'est-ce qui est utilisé dans React.js pour augmenter la performance ?",
+        "options": [
+            "DOM original",
+            "DOM virtuel",
+            "Les deux A et B.",
+            "Aucun des précédents."
+        ],
+        "answer": "DOM virtuel"
+    },
+    {
+        "id": "06",
+        "question": "Quel est le port par défaut sur lequel webpack-server s'exécute ?",
+        "options": [
+            "3000",
+            "8080",
+            "3030",
+            "6060"
+        ],
+        "answer": "3000"
+    },
+    {
+        "id": "07",
+        "question": "Combien d'éléments un composant React valide peut-il retourner ?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "Illimité"
+        ],
+        "answer": "1"
+    },
+    {
+        "id": "08",
+        "question": "Quelle est la manière déclarative de rendre une liste dynamique de composants basée sur les valeurs dans un tableau ?",
+        "options": [
+            "En utilisant la méthode reduce du tableau",
+            "En utilisant le composant <Each />",
+            "En utilisant la méthode Array.map()",
+            "Avec une boucle for/while"
+        ],
+        "answer": "En utilisant la méthode Array.map()"
+    },
+    {
+        "id": "09",
+        "question": "Qu'est-ce qu'un état dans React ?",
+        "options": [
+            "Un stockage permanent.",
+            "Le stockage interne du composant.",
+            "Le stockage externe du composant.",
+            "Aucun des précédents."
+        ],
+        "answer": "Le stockage interne du composant."
+    },
+    {
+        "id": "10",
+        "question": "Quelles sont les deux manières de gérer les données dans React ?",
+        "options": [
+            "État & Propriétés",
+            "Services & Composants",
+            "État & Services",
+            "État & Composant"
+        ],
+        "answer": "État & Propriétés"
+    }
+]
